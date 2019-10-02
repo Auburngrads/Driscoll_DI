@@ -1,7 +1,7 @@
 Destination Imagination at Driscoll
 ================
 
-## Disclaimer
+## Legal Notice
 
 Several documents created by Destination Imagination Inc. are
 copyrighted. These include the Team Challenge descriptions, the Rules of
@@ -9,11 +9,13 @@ the Road, and the Destination Imagination Roadmap. Team members,
 individuals, and member organizations who use these materials are liable
 for all legal obligations and agree to abide by all rules of
 competition, safety, and provisions stated within Rules of the Road and
-the 2019-20 Team Challenges. <u>This</u> repository is intended to serve
-as a one-stop for **publicly-available** resources to help Driscoll
-team-members and their parents make the most of their Destination
-Imagination season - without having roam around the internet. No attempt
-should be made to push any copyrighted materials to this repository.
+the 2019-20 Team Challenges.
+
+This repository is intended to serve as a one-stop for
+**publicly-available** resources to help Driscoll team-members and their
+parents make the most of their Destination Imagination season - without
+having roam around the internet. No attempt should be made to push any
+copyrighted materials to this repository.
 
 ## What is Destination Imagination?
 
@@ -49,12 +51,12 @@ documentation for each challenge is not publicly available, but DI
 publishes a preview of the challenges for families and team members to
 review.
 
-<u>**Before our first meeting please visit [this
-site](https://www.destinationimagination.org/challenge-program/2019-20-challenge-previews/).**</u>
+<u>**BEFORE OUR FIRST MEETING PLEASE VISIT [THIS
+SITE](https://www.destinationimagination.org/challenge-program/2019-20-challenge-previews/).**</u>
 While there watch the preview videos for each challenge and download the
-preview document explaining each of the challenges
+preview document explaining each of the challenges.
 
-The sections below provide more information about each of the DI
+The following sections provide more information about each of the DI
 challenge areas and will be updated regularly.
 
 <details>
@@ -234,8 +236,8 @@ More to come on this.
     Mission & Vision**</a>
   - <a target=" " href="https://www.youtube.com/user/DIGlobalFinals/videos">**DI
     YouTube Channel**</a>
-  - <a target=" " href="https://www.youtube.com/user/DIGlobalFinals/videos">**Centerville
-    DI Homepage**</a>
+  - <a target=" " href="https://www.centervilledi.com/">**Centerville DI
+    Homepage**</a>
   - <a target=" " href="https://www.destinationimagination.org/parents-start-here/">**Resources
     for New DI Parents**</a>
   - <a target=" " href="https://www.centervilledi.com/parentsupportgroup.htm">**Centerville
