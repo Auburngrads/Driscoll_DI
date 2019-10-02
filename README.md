@@ -53,8 +53,9 @@ review.
 
 <u>**BEFORE OUR FIRST MEETING PLEASE VISIT [THIS
 SITE](https://www.destinationimagination.org/challenge-program/2019-20-challenge-previews/).**</u>
-While there watch the preview videos for each challenge and download the
-preview document explaining each of the challenges.
+While there watch the preview videos for each challenge with your child
+and then download the preview document provides a synopsis of each
+challenge.
 
 The following sections provide more information about each of the DI
 challenge areas and will be updated regularly.
