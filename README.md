@@ -1,7 +1,7 @@
 Destination Imagination at Driscoll
 ================
 
-## The Legal Stuff
+## Disclaimer
 
 Several documents created by Destination Imagination Inc. are
 copyrighted. These include the Team Challenge descriptions, the Rules of
@@ -9,11 +9,11 @@ the Road, and the Destination Imagination Roadmap. Team members,
 individuals, and member organizations who use these materials are liable
 for all legal obligations and agree to abide by all rules of
 competition, safety, and provisions stated within Rules of the Road and
-the 2019-20 Team Challenges. <u>This</u> repository is will not share
-these files but is instead intended to serve as a one-stop for
-**publicly-available** resources to help Driscoll team-members and
-parents make the most of the 2019-2020 Destination Imagination season -
-without having roam around the internet.
+the 2019-20 Team Challenges. <u>This</u> repository is intended to serve
+as a one-stop for **publicly-available** resources to help Driscoll
+team-members and their parents make the most of their Destination
+Imagination season - without having roam around the internet. No attempt
+should be made to push any copyrighted materials to this repository.
 
 ## What is Destination Imagination?
 
@@ -22,15 +22,6 @@ educational non-profit organization that teaches
 <a target=" " href="https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics">**STEM**</a>
 skills and principles through team-based problem solving challenges - or
 Team Challenges.
-
-  - <a target=" " href="https://www.destinationimagination.org/about/">**More
-    About DI**</a>
-  - <a target=" " href="https://www.destinationimagination.org/vision-mission/">**DI
-    Mission & Vision**</a>
-  - <a target=" " href="https://www.destinationimagination.org/">**DI
-    Website**</a>
-  - <a target=" " href="https://www.youtube.com/user/DIGlobalFinals/videos">**DI
-    YouTube Channel**</a>
 
 ## The DI Team Challenge
 
@@ -49,21 +40,26 @@ learning objectives. These challenges are open-ended projects that teams
 work on over an extended period of time, usually 2-4 months. Teams
 compete by presenting their solutions at local tournaments between
 February and April. If teams qualify at their regional and state/country
-level tournaments, they are invited to showcase at Global Finals in May.
+level tournaments, they are invited to showcase their solution at Global
+Finals in May.
 
 Your DI team manager will review each of these challenges with the team
 so that they can choose which challenge they want to solve. The full
 documentation for each challenge is not publicly available, but DI
-publishes a preview of the challenge for families and team members to
-review. **Before our first meeting team members and families should
-click on [this
-link](https://dihq.box.com/s/g614fqsttppgqagzwkih9lzxpfahr6ou) to
-download the preview of the challenges and then expand the sections
-below and watch the preview videos**
+publishes a preview of the challenges for families and team members to
+review.
+
+<u>**Before our first meeting please visit [this
+site](https://www.destinationimagination.org/challenge-program/2019-20-challenge-previews/).**</u>
+While there watch the preview videos for each challenge and download the
+preview document explaining each of the challenges
+
+The sections below provide more information about each of the DI
+challenge areas and will be updated regularly.
 
 <details>
 
-<summary><font color="blue"><b>Technical</b></font></summary>
+<summary><b>Technical</b></summary>
 
 <p>
 
@@ -77,15 +73,9 @@ originality, the quality, workmanship and effort, and the integration of
 the elements into the presentation. Normally, Team Choice Elements
 account for 15% of a team’s score. The Team Choice Element can be
 anything that the team chooses, as long as it is not a scoring element.
-<br/>
-
-<center>
-
-<iframe width="800" height="400" src="https://www.youtube.com/embed/tWiOP7Bhq6Y" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-
-</iframe>
-
-<center>
+<br/> <!-- <center> -->
+<!-- <iframe width="800" height="400" src="https://www.youtube.com/embed/tWiOP7Bhq6Y" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<!-- <center> -->
 
 </p>
 
@@ -97,7 +87,7 @@ anything that the team chooses, as long as it is not a scoring element.
 
 <details>
 
-<summary><font color="blue"><b>Scientific</b></font></summary>
+<summary><b>Scientific</b></summary>
 
 <p>
 
@@ -110,15 +100,9 @@ Elements. The team will be evaluated on the creativity and originality,
 the quality, workmanship and effort, and the integration of the element
 into the presentation. Normally, Team Choice Elements account for 15% of
 a team’s score. The Team Choice Element can be anything that the team
-chooses, as long as it is not a scoring element. <br/>
-
-<center>
-
-<iframe width="800" height="400" src="https://www.youtube.com/embed/eqSJnsY8WnY" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-
-</iframe>
-
-<center>
+chooses, as long as it is not a scoring element. <br/> <!-- <center> -->
+<!-- <iframe width="800" height="400" src="https://www.youtube.com/embed/eqSJnsY8WnY" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<!-- <center> -->
 
 </p>
 
@@ -130,7 +114,7 @@ chooses, as long as it is not a scoring element. <br/>
 
 <details>
 
-<summary><font color="blue"><b>Fine Arts</b></font></summary>
+<summary><b>Fine Arts</b></summary>
 
 <p>
 
@@ -143,15 +127,9 @@ team will be evaluated on the creativity and originality, the quality,
 workmanship and effort, and the integration of the element into the
 presentation. Normally, Team Choice Elements account for 15% of a team’s
 score. The Team Choice Element can be anything that the team chooses, as
-long as it is not a scoring element. <br/>
-
-<center>
-
-<iframe width="800" height="400" src="https://www.youtube.com/embed/1t-BtBCIWfw" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-
-</iframe>
-
-<center>
+long as it is not a scoring element. <br/> <!-- <center> -->
+<!-- <iframe width="800" height="400" src="https://www.youtube.com/embed/1t-BtBCIWfw" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<!-- <center> -->
 
 </p>
 
@@ -163,7 +141,7 @@ long as it is not a scoring element. <br/>
 
 <details>
 
-<summary><font color="blue"><b>Improvisational</b></font></summary>
+<summary><b>Improvisational</b></summary>
 
 <p>
 
@@ -172,14 +150,9 @@ create a skit within a short window of time, and then present it. There
 is usually a theme, of some sort, as well as a prop requirement that
 requires teams to create or incorporate different props. The team will
 also be evaluated for teamwork in this challenge. <br/>
-
-<center>
-
-<iframe width="800" height="400" src="https://www.youtube.com/embed/DVKJHu31lbA" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-
-</iframe>
-
-<center>
+<!-- <center> -->
+<!-- <iframe width="800" height="400" src="https://www.youtube.com/embed/DVKJHu31lbA" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<!-- <center> -->
 
 </p>
 
@@ -191,7 +164,7 @@ also be evaluated for teamwork in this challenge. <br/>
 
 <details>
 
-<summary><font color="blue"><b>Engineering</b></font></summary>
+<summary><b>Engineering</b></summary>
 
 <p>
 
@@ -210,15 +183,9 @@ creativity and originality, the quality, workmanship and effort, and the
 integration of the element into the presentation. Normally, Team Choice
 Elements account for 15% of a team’s score. The Team Choice Element can
 be anything that the team chooses, as long as it is not a scoring
-element. <br/>
-
-<center>
-
-<iframe width="800" height="400" src="https://www.youtube.com/embed/a_kwCwgRHhw" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-
-</iframe>
-
-<center>
+element. <br/> <!-- <center> -->
+<!-- <iframe width="800" height="400" src="https://www.youtube.com/embed/a_kwCwgRHhw" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<!-- <center> -->
 
 </p>
 
@@ -230,7 +197,7 @@ element. <br/>
 
 <details>
 
-<summary><font color="blue"><b>Service Learning</b></font></summary>
+<summary><b>Service Learning</b></summary>
 
 <p>
 
@@ -245,15 +212,9 @@ creativity and originality, the quality, workmanship and effort, and the
 integration of the element into the presentation. Normally, Team Choice
 Elements account for 15% of a team’s score. The Team Choice Element can
 be anything that the team chooses, as long as it is not a scoring
-element. <br/>
-
-<center>
-
-<iframe width="800" height="400" src="https://www.youtube.com/embed/8UhQ-KROI_k" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-
-</iframe>
-
-<center>
+element. <br/> <!-- <center> -->
+<!-- <iframe width="800" height="400" src="https://www.youtube.com/embed/8UhQ-KROI_k" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<!-- <center> -->
 
 </p>
 
@@ -262,3 +223,20 @@ element. <br/>
 ### Team Choice Elements
 
 More to come on this.
+
+## Links to Other Helpful DI Resources
+
+  - <a target=" " href="https://www.destinationimagination.org/">**DI
+    Homepage**</a>
+  - <a target=" " href="https://www.destinationimagination.org/about/">**About
+    DI**</a>
+  - <a target=" " href="https://www.destinationimagination.org/vision-mission/">**DI
+    Mission & Vision**</a>
+  - <a target=" " href="https://www.youtube.com/user/DIGlobalFinals/videos">**DI
+    YouTube Channel**</a>
+  - <a target=" " href="https://www.youtube.com/user/DIGlobalFinals/videos">**Centerville
+    DI Homepage**</a>
+  - <a target=" " href="https://www.destinationimagination.org/parents-start-here/">**Resources
+    for New DI Parents**</a>
+  - <a target=" " href="https://www.centervilledi.com/parentsupportgroup.htm">**Centerville
+    DI Parent Support Group**</a>

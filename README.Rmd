@@ -8,18 +8,13 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## The Legal Stuff
+## Disclaimer
 
-Several documents created by Destination Imagination Inc. are copyrighted. These include the Team Challenge descriptions, the Rules of the Road, and the Destination Imagination Roadmap.  Team members, individuals, and member organizations who use these materials are liable for all legal obligations and agree to abide by all rules of competition, safety, and provisions stated within Rules of the Road and the 2019-20 Team Challenges.  <u>This</u> repository is will not share these files but is instead intended to serve as a one-stop for **publicly-available** resources to help Driscoll team-members and parents make the most of the 2019-2020 Destination Imagination season - without having roam around the internet.
+Several documents created by Destination Imagination Inc. are copyrighted. These include the Team Challenge descriptions, the Rules of the Road, and the Destination Imagination Roadmap.  Team members, individuals, and member organizations who use these materials are liable for all legal obligations and agree to abide by all rules of competition, safety, and provisions stated within Rules of the Road and the 2019-20 Team Challenges.  <u>This</u> repository is intended to serve as a one-stop for **publicly-available** resources to help Driscoll team-members and their parents make the most of their Destination Imagination season - without having roam around the internet.  No attempt should be made to push any copyrighted materials to this repository.
 
 ## What is Destination Imagination?
 
 Destination Imagination (DI) was founded in 1999 as a volunteer-led, educational non-profit organization that teaches <a target=" " href="https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics">**STEM**</a> skills and principles through team-based problem solving challenges - or Team Challenges.
-
-- <a target=" " href="https://www.destinationimagination.org/about/">**More About DI**</a>
-- <a target=" " href="https://www.destinationimagination.org/vision-mission/">**DI Mission & Vision**</a>
-- <a target=" " href="https://www.destinationimagination.org/">**DI Website**</a>
-- <a target=" " href="https://www.youtube.com/user/DIGlobalFinals/videos">**DI YouTube Channel**</a>
 
 ## The DI Team Challenge
 
@@ -31,82 +26,96 @@ In an instant challenge teams are given a short period of time to create a solut
 
 ### The Central Challenge
 
-Each year, DI releases seven challenges, each geared toward specific learning objectives. These challenges are open-ended projects that teams work on over an extended period of time, usually 2-4 months.  Teams compete by presenting their solutions at local tournaments between February and April. If teams qualify at their regional and state/country level tournaments, they are invited to showcase at Global Finals in May.
+Each year, DI releases seven challenges, each geared toward specific learning objectives. These challenges are open-ended projects that teams work on over an extended period of time, usually 2-4 months.  Teams compete by presenting their solutions at local tournaments between February and April. If teams qualify at their regional and state/country level tournaments, they are invited to showcase their solution at Global Finals in May.
 
-Your DI team manager will review each of these challenges with the team so that they can choose which challenge they want to solve.  The full documentation for each challenge is not publicly available, but DI publishes a preview of the challenge for families and team members to review. **Before our first meeting team members and families should click on [this link](https://dihq.box.com/s/g614fqsttppgqagzwkih9lzxpfahr6ou) to download the preview of the challenges and then expand the sections below and watch the preview videos**
+Your DI team manager will review each of these challenges with the team so that they can choose which challenge they want to solve.  The full documentation for each challenge is not publicly available, but DI publishes a preview of the challenges for families and team members to review. 
+
+<u>**Before our first meeting please visit [this site ](https://www.destinationimagination.org/challenge-program/2019-20-challenge-previews/).**</u> While there watch the preview videos for each challenge and download the preview document explaining each of the challenges
+
+The sections below provide more information about each of the DI challenge areas and will be updated regularly.
 
 <details>
-<summary><font color="blue"><b>Technical</b></font></summary>
+<summary><b>Technical</b></summary>
 <p>
 The Technical Challenge requires teams to build equipment, such as vehicles, in order to solve their challenge. They must also include a performance, in a specific form or about a general topic supplied with the challenge. In addition, the challenge requires teams to create specific elements unique to the team that will count as Team Choice Elements. The team will be evaluated on their creativity and originality, the quality, workmanship and effort, and the integration of the elements into the presentation. Normally, Team Choice Elements account for 15% of a team's score. The Team Choice Element can be anything that the team chooses, as long as it is not a scoring element.
 <br/>
-<center>
-<iframe width="800" height="400" src="https://www.youtube.com/embed/tWiOP7Bhq6Y" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<center>
+<!-- <center> -->
+<!-- <iframe width="800" height="400" src="https://www.youtube.com/embed/tWiOP7Bhq6Y" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<!-- <center> -->
 </p>
 </details>
 <!--##########################-->
 <!--##########################--> 
 <details>
-<summary><font color="blue"><b>Scientific</b></font></summary>
+<summary><b>Scientific</b></summary>
 <p>
 The Scientific Challenge requires teams to do research on a specific aspect of science, and then create a performance based on it. Sometimes, there is also a specific requirement to build a certain kind of prop or costume. In addition, the challenge requires teams to create two specific elements unique to the team that will count as Team Choice Elements. The team will be evaluated on the creativity and originality, the quality, workmanship and effort, and the integration of the element into the presentation. Normally, Team Choice Elements account for 15% of a team's score. The Team Choice Element can be anything that the team chooses, as long as it is not a scoring element.
 <br/>
-<center>
-<iframe width="800" height="400" src="https://www.youtube.com/embed/eqSJnsY8WnY" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<center>
+<!-- <center> -->
+<!-- <iframe width="800" height="400" src="https://www.youtube.com/embed/eqSJnsY8WnY" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<!-- <center> -->
 </p>
 </details>
 <!--##########################-->
 <!--##########################-->  
 <details>
-<summary><font color="blue"><b>Fine Arts</b></font></summary>
+<summary><b>Fine Arts</b></summary>
 <p>
 The Fine Arts Challenge requires teams to create and act out a performance that demonstrates some theatrical technique. It may be to use a certain method of presentation or to make a certain type of prop. In addition, the challenge requires teams to create two specific elements unique to the team that will count as Team Choice Elements. The team will be evaluated on the creativity and originality, the quality, workmanship and effort, and the integration of the element into the presentation. Normally, Team Choice Elements account for 15% of a team's score. The Team Choice Element can be anything that the team chooses, as long as it is not a scoring element.
 <br/>
-<center>
-<iframe width="800" height="400" src="https://www.youtube.com/embed/1t-BtBCIWfw" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<center>
+<!-- <center> -->
+<!-- <iframe width="800" height="400" src="https://www.youtube.com/embed/1t-BtBCIWfw" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<!-- <center> -->
 </p>
 </details>
 <!--##########################-->
 <!--##########################--> 
 <details>
-<summary><font color="blue"><b>Improvisational</b></font></summary>
+<summary><b>Improvisational</b></summary>
 <p>
 The Improvisational Challenge requires teams to think on their feet and create a skit within a short window of time, and then present it. There is usually a theme, of some sort, as well as a prop requirement that requires teams to create or incorporate different props. The team will also be evaluated for teamwork in this challenge.
 <br/>
-<center>
-<iframe width="800" height="400" src="https://www.youtube.com/embed/DVKJHu31lbA" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<center>
+<!-- <center> -->
+<!-- <iframe width="800" height="400" src="https://www.youtube.com/embed/DVKJHu31lbA" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<!-- <center> -->
 </p>
 </details>
 <!--##########################-->
 <!--##########################--> 
 <details>
-<summary><font color="blue"><b>Engineering</b></font></summary>
+<summary><b>Engineering</b></summary>
 <p>
 The Engineering Challenge requires teams to create a structure, with material and weight requirements, as well as an accompanying performance that has to do with some aspect of the structure. The structures are scored using a weight held ratio (WHR), where the weight held at the tournament is divided over the weight of the structure, to create a fair comparison of team structures. Some years, there have been additional elements that the team had to incorporate into their structures, such as holding golf balls. By performing these extra tasks, the team may receive additional weight held credit. In addition, the challenge requires teams to create two specific elements unique to the team that will count as Team Choice Elements. The team will be evaluated on the creativity and originality, the quality, workmanship and effort, and the integration of the element into the presentation. Normally, Team Choice Elements account for 15% of a team's score. The Team Choice Element can be anything that the team chooses, as long as it is not a scoring element.
 <br/>
-<center>
-<iframe width="800" height="400" src="https://www.youtube.com/embed/a_kwCwgRHhw" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<center>
+<!-- <center> -->
+<!-- <iframe width="800" height="400" src="https://www.youtube.com/embed/a_kwCwgRHhw" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<!-- <center> -->
 </p>
 </details>
 <!--##########################-->
 <!--##########################--> 
 <details>
-<summary><font color="blue"><b>Service Learning</b></font></summary>
+<summary><b>Service Learning</b></summary>
 <p>
 The Service Learning Challenge, also known as projectOUTREACH, requires teams to do a service project that benefits their community, and then create a performance to present at the tournament. The challenge always has a theme that the team has to incorporate into their skit, or the way they carry out their project. For some program seasons, the challenge requires teams to create two specific elements unique to the team that will count as Team Choice Elements. The team will be evaluated on the creativity and originality, the quality, workmanship and effort, and the integration of the element into the presentation. Normally, Team Choice Elements account for 15% of a team's score. The Team Choice Element can be anything that the team chooses, as long as it is not a scoring element.
 <br/>
-<center>
-<iframe width="800" height="400" src="https://www.youtube.com/embed/8UhQ-KROI_k" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<center>
+<!-- <center> -->
+<!-- <iframe width="800" height="400" src="https://www.youtube.com/embed/8UhQ-KROI_k" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<!-- <center> -->
 </p>
 </details>
 
 ### Team Choice Elements
 
 More to come on this.
+
+## Links to Other Helpful DI Resources
+
+- <a target=" " href="https://www.destinationimagination.org/">**DI Homepage**</a>
+- <a target=" " href="https://www.destinationimagination.org/about/">**About DI**</a>
+- <a target=" " href="https://www.destinationimagination.org/vision-mission/">**DI Mission & Vision**</a>
+- <a target=" " href="https://www.youtube.com/user/DIGlobalFinals/videos">**DI YouTube Channel**</a>
+- <a target=" " href="https://www.youtube.com/user/DIGlobalFinals/videos">**Centerville DI Homepage**</a>
+- <a target=" " href="https://www.destinationimagination.org/parents-start-here/">**Resources for New DI Parents**</a>
+- <a target=" " href="https://www.centervilledi.com/parentsupportgroup.htm">**Centerville DI Parent Support Group**</a>
 
