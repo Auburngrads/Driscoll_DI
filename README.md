@@ -14,8 +14,9 @@ the 2019-20 Team Challenges.
 This repository is intended to serve as a one-stop for
 **publicly-available** resources to help Driscoll team-members and their
 parents make the most of their Destination Imagination season - without
-having roam around the internet. No attempt should be made to push any
-copyrighted materials to this repository.
+having roam around the internet. No attempt should be made to push
+copyrighted materials to this repository. Moreover, no pull requests
+that include copyrighted materials will be accepted.
 
 ## What is Destination Imagination?
 
@@ -24,6 +25,24 @@ educational non-profit organization that teaches
 <a target=" " href="https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics">**STEM**</a>
 skills and principles through team-based problem solving challenges - or
 Team Challenges.
+
+Parents who are new to DI should visit the following sites to learn more
+about the creative process
+
+  - <a target=" " href="https://www.destinationimagination.org/parents-start-here/">**Resources
+    for New DI Parents**</a>
+  - <a target=" " href="https://www.destinationimagination.org/">**DI
+    Homepage**</a>
+  - <a target=" " href="https://www.destinationimagination.org/about/">**About
+    DI**</a>
+  - <a target=" " href="https://www.destinationimagination.org/vision-mission/">**DI
+    Mission & Vision**</a>
+  - <a target=" " href="https://www.youtube.com/user/DIGlobalFinals/videos">**DI
+    YouTube Channel**</a>
+  - <a target=" " href="https://www.centervilledi.com/">**Centerville DI
+    Homepage**</a>
+  - <a target=" " href="https://www.centervilledi.com/parentsupportgroup.htm">**Centerville
+    DI Parent Support Group**</a>
 
 ## The DI Team Challenge
 
@@ -226,20 +245,3 @@ element. <br/> <!-- <center> -->
 ### Team Choice Elements
 
 More to come on this.
-
-## Links to Other Helpful DI Resources
-
-  - <a target=" " href="https://www.destinationimagination.org/">**DI
-    Homepage**</a>
-  - <a target=" " href="https://www.destinationimagination.org/about/">**About
-    DI**</a>
-  - <a target=" " href="https://www.destinationimagination.org/vision-mission/">**DI
-    Mission & Vision**</a>
-  - <a target=" " href="https://www.youtube.com/user/DIGlobalFinals/videos">**DI
-    YouTube Channel**</a>
-  - <a target=" " href="https://www.centervilledi.com/">**Centerville DI
-    Homepage**</a>
-  - <a target=" " href="https://www.destinationimagination.org/parents-start-here/">**Resources
-    for New DI Parents**</a>
-  - <a target=" " href="https://www.centervilledi.com/parentsupportgroup.htm">**Centerville
-    DI Parent Support Group**</a>
