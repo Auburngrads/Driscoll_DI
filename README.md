@@ -281,9 +281,10 @@ skills that they learned to build the birdhouse that will part of their
 solution – the team must do this by themselves (we’ll obviously
 supervise to make sure they stay safe).
 
-Early on it may be difficult to remember these rules. Remember, when
+Early on it may be difficult to remember these rules. **Remember**, when
 your child asks for help with their solution, be patient and resist the
-urge – just like this guy…
+urge to do what may seem like the most obvious thing to do – just like
+this guy…
 
 <p align="center">
 
@@ -294,22 +295,24 @@ urge – just like this guy…
 
 ### Questions about interference
 
-  - **What if the kids get stuck while building their birdhouse and asks
-    me a question about what to do?**
+  - **What if the teams gets stuck while building their solution and
+    asks me a question about what to do?**
     
-      - In this situation you should not simply give them the answer,
-        instead you should talk to the team to help guide their thoughts
-        on how best to proceed.
+      - You should not simply give them the answer, instead you should
+        talk to the team to help guide their thoughts on how best to
+        proceed
       - Examples of this would be asking probing/guiding questions that
         helps THEM come up with the way forward
 
-  - **What if my child is describing how they are stuck at some point in
-    creating their solution and I have the perfect idea - should I
+  - **What if my child tells me how they’re stuck at some point in
+    creating their solution and I have the PERFECT idea - should I
     suggest it to them?**
     
-      - You should not suggest specific solution ideas, but you can ask
-        them questions that will help them arrive and the best answer
-        themselves – even if it’s not your perfect idea.
-      - Moreover, if you suggest a specific idea to the team not only is
-        this interference, the team is disallowed from further pursuing
-        this idea – because it did not come from someone within the team
+      - No, you should not suggest specific solution ideas, but you can
+        ask them questions that will help THEM arrive and the best
+        answer themselves – even if it’s not your perfect idea
+        :dissapointed
+      - Moreover, if you do suggest a specific idea to the team not only
+        is this considered interference, but the team is also disallowed
+        from further pursuing this idea – because the original idea did
+        not come from a member of the team
