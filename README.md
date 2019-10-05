@@ -285,12 +285,12 @@ Early on it may be difficult to remember these rules. Remember, when
 your child asks for help with their solution, be patient and resist the
 urge – just like this guy…
 
-<center>
+<p align="center">
 
-<img src="https://www.oddities123.com/wp-content/uploads/2013/02/patient-dog-7.jpg" width="500" height="670" align="middle">
+<img src="https://www.oddities123.com/wp-content/uploads/2013/02/patient-dog-7.jpg" width="333" height="447" align="middle">
 </img>
 
-</center>
+</p>
 
 ### Questions about interference
 
