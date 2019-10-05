@@ -120,3 +120,43 @@ The Service Learning Challenge, also known as projectOUTREACH, requires teams to
 ### Team Choice Elements
 
 More to come on this.
+
+## Interference
+
+An important concept in DI is minimizing **interference** from the team manager, friends, and the team members parents.  Clearly, we all want to help the team do well this season -- and we can -- but we need to be aware of the types of help that cross the line and are consider as interfering.
+
+Destination Imagination Inc. published a document outlining what constitutes interference.  This document can be accessed by visiting <a target=" " href="https://www.destinationimagination.org/blog/what-is-interference/">**this site**</a>
+
+### Example of helping vs. interfering
+
+Suppose that part of the team's challenge solution involves building a birdhouse.  Most would agree that building a birdhouse involves the following tasks/skills (not an exhaustive list)
+
+- measuring
+- choosing materials
+- cutting/sawing
+- drilling holes
+- driving screws
+- hammering nails
+- glueing
+- painting
+
+As outside helpers we **CAN** teach them how to do all of these things -- even introducing them to experts who can help explain how to do these things.  **However**, when it comes time for the team members to use the skills that they learned to build the birdhouse that will part of their solution -- the team must do this by themselves (we'll obviously supervise to make sure they stay safe).
+
+Early on it may be difficult to remember these rules.  Remember, when your child asks for help with their solution, be patient and resist the urge -- just like this guy...
+
+<center>
+<img src="https://www.oddities123.com/wp-content/uploads/2013/02/patient-dog-7.jpg" width="500" height="670" align="middle">
+</img>
+</center>
+
+### Questions about interference
+
+- **What if the kids get stuck while building their birdhouse and asks me a question about what to do?**  
+
+    + In this situation you should not simply give them the answer, instead you should talk to the team to help guide their thoughts on how best to proceed.
+    + Examples of this would be asking probing/guiding questions that helps THEM come up with the way forward 
+
+- **What if my child is describing how they are stuck at some point in creating their solution and I have the perfect idea - should I suggest it to them?**
+
+    + You should not suggest specific solution ideas, but you can ask them questions that will help them arrive and the best answer themselves -- even if it's not your perfect idea.
+    + Moreover, if you suggest a specific idea to the team not only is this interference, the team is disallowed from further pursuing this idea -- because it did not come from someone within the team
