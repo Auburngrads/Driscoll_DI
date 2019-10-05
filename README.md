@@ -310,8 +310,7 @@ this guy…
     
       - No, you should not suggest specific solution ideas, but you can
         ask them questions that will help THEM arrive and the best
-        answer themselves – even if it’s not your perfect idea
-        :dissapointed:
+        answer themselves – even if it’s not your perfect idea 😔
       - Moreover, if you do suggest a specific idea to the team not only
         is this considered interference, but the team is also disallowed
         from further pursuing this idea – because the original idea did

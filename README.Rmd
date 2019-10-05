@@ -158,5 +158,5 @@ Early on it may be difficult to remember these rules.  **Remember**, when your c
 
 - **What if my child tells me how they're stuck at some point in creating their solution and I have the PERFECT idea - should I suggest it to them?**
 
-    + No, you should not suggest specific solution ideas, but you can ask them questions that will help THEM arrive and the best answer themselves -- even if it's not your perfect idea :dissapointed:
+    + No, you should not suggest specific solution ideas, but you can ask them questions that will help THEM arrive and the best answer themselves -- even if it's not your perfect idea `r emo::ji("sad")`
     + Moreover, if you do suggest a specific idea to the team not only is this considered interference, but the team is also disallowed from further pursuing this idea -- because the original idea did not come from a member of the team
