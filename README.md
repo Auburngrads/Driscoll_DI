@@ -281,18 +281,6 @@ skills that they learned to build the birdhouse that will part of their
 solution – the team must do this by themselves (we’ll obviously
 supervise to make sure they stay safe).
 
-Early on it may be difficult to remember these rules. **Remember**, when
-your child asks for help with their solution, be patient and resist the
-urge to do what may seem like the most obvious thing to do – just like
-this guy…
-
-<p align="center">
-
-<img src="https://www.oddities123.com/wp-content/uploads/2013/02/patient-dog-7.jpg" width="333" height="447" align="middle">
-</img>
-
-</p>
-
 ### Questions about interference
 
   - **What if the teams gets stuck while building their solution and
@@ -310,8 +298,20 @@ this guy…
     
       - No, you should not suggest specific solution ideas, but you can
         ask them questions that will help THEM arrive and the best
-        answer themselves – *even if it’s not your perfect idea* 😞
+        answer themselves – *even if it’s not your perfect idea* 😔
       - Moreover, if you do suggest a specific idea to the team not only
         is this considered interference, but the team is also disallowed
         from further pursuing this idea – because the original idea did
         not come from a member of the team
+
+Early on it may be difficult to remember these rules. **Remember**, when
+your child asks for help with their solution, be patient and resist the
+urge to do what may seem like the most obvious thing to do – just like
+this guy…
+
+<p align="center">
+
+<img src="https://www.oddities123.com/wp-content/uploads/2013/02/patient-dog-7.jpg" width="333" height="447" align="middle">
+</img>
+
+</p>
