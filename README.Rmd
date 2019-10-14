@@ -25,6 +25,8 @@ Parents who are new to DI should visit the following sites to learn more about t
 - <a target=" " href="https://www.destinationimagination.org/about/">**About DI**</a>
 - <a target=" " href="https://www.destinationimagination.org/vision-mission/">**DI Mission & Vision**</a>
 - <a target=" " href="https://www.youtube.com/user/DIGlobalFinals/videos">**DI YouTube Channel**</a>
+- <a target=" " href="https://www.ohdi.org">**Ohio DI Homepage**</a>
+- <a target=" " href="http://www.ohdi12.org">**DI Region 12 Homepage**</a>
 - <a target=" " href="https://www.centervilledi.com/">**Centerville DI Homepage**</a>
 - <a target=" " href="https://www.centervilledi.com/parentsupportgroup.htm">**Centerville DI Parent Support Group**</a>
 

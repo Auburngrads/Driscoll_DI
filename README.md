@@ -39,6 +39,9 @@ about the creative process
     Mission & Vision**</a>
   - <a target=" " href="https://www.youtube.com/user/DIGlobalFinals/videos">**DI
     YouTube Channel**</a>
+  - <a target=" " href="https://www.ohdi.org">**Ohio DI Homepage**</a>
+  - <a target=" " href="http://www.ohdi12.org">**DI Region 12
+    Homepage**</a>
   - <a target=" " href="https://www.centervilledi.com/">**Centerville DI
     Homepage**</a>
   - <a target=" " href="https://www.centervilledi.com/parentsupportgroup.htm">**Centerville
@@ -298,7 +301,7 @@ supervise to make sure they stay safe).
     
       - No, you should not suggest specific solution ideas, but you can
         ask them questions that will help THEM arrive and the best
-        answer themselves – *even if it’s not your perfect idea* 😔
+        answer themselves – *even if it’s not your perfect idea* 😭
       - Moreover, if you do suggest a specific idea to the team not only
         is this considered interference, but the team is also disallowed
         from further pursuing this idea – because the original idea did
