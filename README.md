@@ -73,11 +73,10 @@ documentation for each challenge is not publicly available, but DI
 publishes a preview of the challenges for families and team members to
 review.
 
-<u>**BEFORE OUR FIRST MEETING PLEASE VISIT [THIS
-SITE](https://www.destinationimagination.org/challenge-program/2019-20-challenge-previews/).**</u>
-While there watch the preview videos for each challenge with your child
-and then download the preview document provides a synopsis of each
-challenge.
+**BEFORE OUR FIRST MEETING PLEASE VISIT**
+<a href="https://www.destinationimagination.org/challenge-program/2021-22-challenge-previews/" target="_blank"><strong>THIS SITE</strong></a>.
+While there, watch the preview video with your child - it provides a
+detailed synopsis of each challenge.
 
 The following sections provide more information about each of the DI
 challenge areas and will be updated regularly.
@@ -212,14 +211,6 @@ element. <br/> <!-- <center> -->
 </p>
 </details>
 
--   Additionally, watch this video with your child - it provides further
-    details on each challenge
-
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M507FZt22tc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
-</center>
-
 ### Team Choice Elements
 
 More to come on this.
@@ -276,7 +267,7 @@ supervise to make sure they stay safe).
 
     -   No, you should not suggest specific solution ideas, but you can
         ask them questions that will help THEM arrive and the best
-        answer themselves – *even if it’s not your perfect idea* 😿
+        answer themselves – *even if it’s not your perfect idea* 😭
     -   Moreover, if you do suggest a specific idea to the team not only
         is this considered interference, but the team is also disallowed
         from further pursuing this idea – because the original idea did
