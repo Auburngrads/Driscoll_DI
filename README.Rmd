@@ -44,7 +44,7 @@ Each year, DI releases seven challenges, each geared toward specific learning ob
 
 Your DI team manager will review each of these challenges with the team so that they can choose which challenge they want to solve.  The full documentation for each challenge is not publicly available, but DI publishes a preview of the challenges for families and team members to review. 
 
-<u>**BEFORE OUR FIRST MEETING PLEASE VISIT [THIS SITE ](https://www.destinationimagination.org/challenge-program/2019-20-challenge-previews/).**</u> While there watch the preview videos for each challenge with your child and then download the preview document provides a synopsis of each challenge.
+**BEFORE OUR FIRST MEETING PLEASE VISIT** [**THIS SITE** ](https://www.destinationimagination.org/challenge-program/2021-22-challenge-previews/){target="_blank"}. While there, watch the preview video with your child - it provides a detailed synopsis of each challenge.
 
 The following sections provide more information about each of the DI challenge areas and will be updated regularly.
 
@@ -118,13 +118,6 @@ The Service Learning Challenge, also known as projectOUTREACH, requires teams to
 <!-- <center> -->
 </p>
 </details>
-
-- Additionally, watch this video with your child - it provides further details on each challenge
-
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M507FZt22tc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
-</center>
 
 ### Team Choice Elements
 
