@@ -1,5 +1,5 @@
 ---
-title: "Destination Imagination at Driscoll"
+title: "Destination Imagination at Watts"
 subtitle: "Collection of Resources For Team Members and their Parents"
 output: github_document
 ---
@@ -10,9 +10,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Legal Notice
 
-Several documents created by Destination Imagination Inc. are copyrighted. These include the Team Challenge descriptions, the Rules of the Road, and the Destination Imagination Roadmap.  Team members, individuals, and member organizations who use these materials are liable for all legal obligations and agree to abide by all rules of competition, safety, and provisions stated within Rules of the Road and the 2019-20 Team Challenges.  
+Several documents created by Destination Imagination Inc. are copyrighted. These include the Team Challenge descriptions, the Rules of the Road, and the Destination Imagination Roadmap.  Team members, individuals, and member organizations who use these materials are liable for all legal obligations and agree to abide by all rules of competition, safety, and provisions stated within Rules of the Road and the 2021-22 Team Challenges.  
 
-This repository is intended to serve as a one-stop for **publicly-available** resources to help Driscoll team-members and their parents make the most of their Destination Imagination season - without having roam around the internet.  No attempt should be made to push copyrighted materials to this repository. Moreover, no pull requests that include copyrighted materials will be accepted.
+This repository is intended to serve as a one-stop for **publicly-available** resources to help Watts team-members and their parents make the most of their Destination Imagination season - without having roam around the internet.  No attempt should be made to push copyrighted materials to this repository. Moreover, no pull requests that include copyrighted materials will be accepted.
 
 ## What is Destination Imagination?
 
@@ -20,7 +20,7 @@ Destination Imagination (DI) was founded in 1999 as a volunteer-led, educational
 
 Parents who are new to DI should visit the following sites to learn more about the creative process
 
-- <a target=" " href="https://www.destinationimagination.org/parents-start-here/">**Resources for New DI Parents**</a>
+- <a target=" " href="https://www.destinationimagination.org/parents">**Resources for New DI Parents**</a>
 - <a target=" " href="https://www.destinationimagination.org/">**DI Homepage**</a>
 - <a target=" " href="https://www.destinationimagination.org/about/">**About DI**</a>
 - <a target=" " href="https://www.destinationimagination.org/vision-mission/">**DI Mission & Vision**</a>
@@ -119,6 +119,13 @@ The Service Learning Challenge, also known as projectOUTREACH, requires teams to
 </p>
 </details>
 
+- Additionally, watch this video with your child - it provides further details on each challenge
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M507FZt22tc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+</center>
+
 ### Team Choice Elements
 
 More to come on this.
@@ -156,9 +163,4 @@ As outside helpers we **CAN** teach them how to do all of these things -- even i
     + No, you should not suggest specific solution ideas, but you can ask them questions that will help THEM arrive and the best answer themselves -- _even if it's not your perfect idea_ `r emo::ji("sad")`
     + Moreover, if you do suggest a specific idea to the team not only is this considered interference, but the team is also disallowed from further pursuing this idea -- because the original idea did not come from a member of the team
 
-Early on it may be difficult to remember these rules.  **Remember**, when your child asks for help with their solution, be patient and resist the urge to do what may seem like the most obvious thing to do -- just like this guy...
-
-<p align="center">
-<img src="https://www.oddities123.com/wp-content/uploads/2013/02/patient-dog-7.jpg" width="333" height="447" align="middle">
-</img>
-</p>
+Early on it may be difficult to remember these rules.  **Remember**, when your child asks for help with their solution, be patient and resist the urge to do what may seem like the most obvious thing to do.
